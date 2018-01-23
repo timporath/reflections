@@ -1,0 +1,9 @@
+start a new git repository with command
+	git init
+use it for version control in your projects
+git log with no commits gives an error
+use git status to see tracked and untracked files 
+
+the staging area is an intermediary working field between the directory and repository and allows 
+the user to specify which files to include in the commit. Since the changes are not done directly the user 
+can recover if he makes a mistake.
